@@ -13,5 +13,9 @@ public class Case1test {
 	@Test
 	public void testTc2() {
 		Reporter.log("hello pankaj ok",true);
+		
+	}
+	public void car() {
+		Reporter.log("White car" ,true);
 	}
 }
