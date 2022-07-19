@@ -16,6 +16,6 @@ public class Case1test {
 		
 	}
 	public void car() {
-		Reporter.log("White car" ,true);
+		Reporter.log("black car" ,true);
 	}
 }
