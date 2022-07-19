@@ -13,5 +13,6 @@ public class Case1test {
 	@Test
 	public void testTc2() {
 		Reporter.log("hello pankaj ok",true);
+		//changes is done
 	}
 }
