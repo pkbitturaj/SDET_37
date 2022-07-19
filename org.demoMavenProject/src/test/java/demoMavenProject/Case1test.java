@@ -15,6 +15,7 @@ public class Case1test {
 		
 	}
 	public void car() {
-		Reporter.log("red car" ,true);
+		Reporter.log("yellow car" ,true);
+		//hello
 	}
 }
