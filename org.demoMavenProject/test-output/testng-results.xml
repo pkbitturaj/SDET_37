@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[yellow car]]>
-    </line>
-    <line>
-      <![CDATA[black]]>
-    </line>
     <line>
       <![CDATA[hello selenium]]>
     </line>
@@ -14,33 +8,19 @@
       <![CDATA[hello pankaj ok]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-07-20T12:38:26 IST" name="Default suite" finished-at="2022-07-20T12:38:26 IST" duration-ms="249">
+  <suite started-at="2022-07-20T12:59:30 IST" name="Default suite" finished-at="2022-07-20T12:59:30 IST" duration-ms="207">
     <groups>
     </groups>
-    <test started-at="2022-07-20T12:38:26 IST" name="Default test" finished-at="2022-07-20T12:38:26 IST" duration-ms="249">
+    <test started-at="2022-07-20T12:59:30 IST" name="Default test" finished-at="2022-07-20T12:59:30 IST" duration-ms="207">
       <class name="demoMavenProject.Case1test">
-        <test-method signature="car()[pri:0, instance:demoMavenProject.Case1test@28f2a10f]" started-at="2022-07-20T12:38:26 IST" name="car" finished-at="2022-07-20T12:38:26 IST" duration-ms="38" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[yellow car]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- car -->
-        <test-method signature="dog()[pri:0, instance:demoMavenProject.Case1test@28f2a10f]" started-at="2022-07-20T12:38:26 IST" name="dog" finished-at="2022-07-20T12:38:26 IST" duration-ms="9" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[black]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- dog -->
-        <test-method signature="testTc1()[pri:0, instance:demoMavenProject.Case1test@28f2a10f]" started-at="2022-07-20T12:38:26 IST" name="testTc1" finished-at="2022-07-20T12:38:26 IST" duration-ms="4" status="PASS">
+        <test-method signature="testTc1()[pri:0, instance:demoMavenProject.Case1test@73e22a3d]" started-at="2022-07-20T12:59:30 IST" name="testTc1" finished-at="2022-07-20T12:59:30 IST" duration-ms="42" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello selenium]]>
             </line>
           </reporter-output>
         </test-method> <!-- testTc1 -->
-        <test-method signature="testTc2()[pri:0, instance:demoMavenProject.Case1test@28f2a10f]" started-at="2022-07-20T12:38:26 IST" name="testTc2" finished-at="2022-07-20T12:38:26 IST" duration-ms="5" status="PASS">
+        <test-method signature="testTc2()[pri:0, instance:demoMavenProject.Case1test@73e22a3d]" started-at="2022-07-20T12:59:30 IST" name="testTc2" finished-at="2022-07-20T12:59:30 IST" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello pankaj ok]]>

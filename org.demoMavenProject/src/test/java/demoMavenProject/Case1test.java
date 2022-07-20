@@ -14,14 +14,6 @@ public class Case1test {
 		Reporter.log("hello pankaj ok",true);
 		
 	}
-	@Test
-	public void car() {
-		Reporter.log("yellow car" ,true);
-
-	}
-	@Test
-	public void dog() {
-		Reporter.log("White", true);
-	}
 	
 }
+	
