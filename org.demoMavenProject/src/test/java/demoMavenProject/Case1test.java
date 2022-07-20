@@ -11,7 +11,7 @@ public class Case1test {
 		String Browser=System.getProperty("browser");
 		String Url = System.getProperty("url");
 		System.out.println(Browser+","+Url);
-		
+		//
 		Reporter.log("hello selenium",true);
 
 	}
