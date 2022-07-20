@@ -21,7 +21,7 @@ public class Case1test {
 	}
 	@Test
 	public void dog() {
-		Reporter.log("black", true);
+		Reporter.log("White", true);
 	}
 	
 }
